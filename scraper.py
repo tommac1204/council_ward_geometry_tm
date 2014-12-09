@@ -5,7 +5,7 @@ import json
 import requests
 import scraperwiki.sqlite as db
 
-PARENT_ID = 2517# London Borough of Haringey
+PARENT_ID = 2515# London Borough of Haringey
 
 
 
